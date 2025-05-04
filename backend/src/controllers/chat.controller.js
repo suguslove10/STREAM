@@ -1,5 +1,5 @@
 import { generateStreamToken } from "../lib/stream.js";
-import StreamChat from "stream-chat";
+import { StreamChat } from "stream-chat";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
